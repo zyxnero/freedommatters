@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /author
+Disallow: /images
+Disallow: /tag
+Disallow: /theme
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.ico$
+Disallow: /archives.html
+Disallow: /atom.xml
+Disallow: /authors.html
+Disallow: /author/*
+Disallow: /categories.html
+Disallow: /CNAME
+Disallow: /nero.appcache
+Disallow: /rss.xml
+Disallow: /search.html
+Disallow: /404.html
+Disallow: /donate.html
+Disallow: /jquery.min.map
+
+Sitemap: https://freedommatters.top/sitemap.xml
