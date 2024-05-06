@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Freedom Matters</title><link>https://freedommatters.top/</link><description>Shall Never Scared…</description><atom:link href="https://freedommatters.top/rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 06 May 2024 12:35:00 +0900</lastBuildDate><item><title>Tripping Alone</title><link>https://freedommatters.top/tripping-alone.html</link><description>&lt;p&gt;I do not know the destination, but at least I am on the way.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Freedom Matters</title><link>https://freedommatters.top/</link><description>Shall Never Scared…</description><atom:link href="https://freedommatters.top/rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 06 May 2024 12:35:00 +0900</lastBuildDate><item><title>Tripping Alone</title><link>https://freedommatters.top/tripping-alone.html</link><description>&lt;p&gt;I do not know the destination, but at least I am on the way.&lt;br&gt;
 我不知道未來怎樣，但至少我已在路上。
 &lt;/p&gt;
-&lt;p&gt;Facing ahead, there's no direction,
+&lt;p&gt;Facing ahead, there's no direction,&lt;br&gt;
 前方啊 沒有方向&lt;/p&gt;
-&lt;p&gt;On my body, there's no clothing.
+&lt;p&gt;On my body, there's no clothing.&lt;br&gt;
 身上啊 沒有了衣裳&lt;/p&gt;
-&lt;p&gt;Blood is seeping from my wings,
+&lt;p&gt;Blood is seeping from my wings,&lt;br&gt;
 鮮血啊 滲出了翅膀&lt;/p&gt;
-&lt;p&gt;Tear is wetting my chest.
+&lt;p&gt;Tear is wetting my chest.&lt;br&gt;
 我的眼淚 濕透了胸膛&lt;/p&gt;
-&lt;p&gt;Flying, enduring the pain,
+&lt;p&gt;Flying, enduring the pain,&lt;br&gt;
 飛翔著 強忍著傷&lt;/p&gt;
-&lt;p&gt;I escaped from hunters' gun.
+&lt;p&gt;I escaped from hunters' gun.&lt;br&gt;
 逃離了 獵人的槍&lt;/p&gt;
-&lt;p&gt;Dear mother, beloved friends,
+&lt;p&gt;Dear mother, beloved friends,&lt;br&gt;
 親愛的母親 摯愛的朋友&lt;/p&gt;
-&lt;p&gt;I will stay strong.
+&lt;p&gt;I will stay strong.&lt;br&gt;
 我會堅定 好好的活&lt;/p&gt;
-&lt;p&gt;Even with everlasting wounds,
+&lt;p&gt;Even with everlasting wounds,&lt;br&gt;
 縱然帶著永遠的傷口&lt;/p&gt;
-&lt;p&gt;At least I still possess freedom.
+&lt;p&gt;At least I still possess freedom.&lt;br&gt;
 至少我還擁有自由&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;div id="player" class="aplayer"&gt;&lt;/div&gt;
@@ -36,7 +36,7 @@ var ap = new APlayer({
     mode: 'circulation',
     preload: 'auto',
     music: {title: 'White Dove',author: 'Wu Bai',
-                url: 'https://i.freedommatters.top/tripping-alone/white-dove.m4a',
+                url: 'https://i.freedommatters.top/tripping-alone/white-dove.mp3',
                 pic: 'http://p1.music.126.net/RapqPMQnRyfW2J7w8k0u8A==/109951165611292291.jpg',}
     });
 &lt;/script&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anonymous</dc:creator><pubDate>Mon, 06 May 2024 12:35:00 +0900</pubDate><guid>tag:https://freedommatters.top,2024-05-06:tripping-alone.html</guid><category>trip alone</category></item></channel></rss>
